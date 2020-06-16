@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1066756414508",
+    "firebase_url": "https://persojournal.firebaseio.com",
+    "project_id": "persojournal",
+    "storage_bucket": "persojournal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066756414508:android:69c630b2e4a8d397880589",
+        "android_client_info": {
+          "package_name": "com.example.persojournal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066756414508-dld3mfvhnal3ia5ev0hhqem5m6h7tqvu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhnigZh7K_lBHXO8OiMbzPqymofbV4djQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066756414508-dld3mfvhnal3ia5ev0hhqem5m6h7tqvu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
