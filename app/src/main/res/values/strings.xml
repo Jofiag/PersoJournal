@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">PersoJournal</string>
+    <string name="Welcome_text">Self.Gratitude.Journal</string>
+    <string name="welcome_question_text">What are you grateful for today?</string>
+    <string name="get_started_text">GET STARTED</string>
+    <string name="email_hint_text">Email</string>
+    <string name="password_hint_text">Password</string>
+    <string name="sign_in_text">SIGN IN</string>
+    <string name="or_text">OR</string>
+    <string name="create_new_account_text">CREATE NEW ACCOUNT</string>
+    <string name="username_hint_text">Username</string>
+    <string name="username_text">Username</string>
+    <string name="date_text">Date</string>
+    <string name="title_text">Title</string>
+    <string name="write_journal_text">Write your journal here</string>
+    <string name="save_text">Save</string>
 </resources>
